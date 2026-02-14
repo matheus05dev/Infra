@@ -35,7 +35,7 @@
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/matheus05dev/Infra.git
+git clone https://github.com/matheus05dev/Infra-dev.git
 cd Infra
 ```
 
