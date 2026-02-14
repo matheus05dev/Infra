@@ -19,7 +19,7 @@
 ✅ **Leve** - Limites de RAM otimizados para desenvolvimento  
 ✅ **Backup fácil** - Scripts automatizados inclusos  
 ✅ **Multi-projeto** - Bancos separados por perfil (Docker Profiles)
-✅ **Configuração pronta para devs** - Ambiente de desenvolvimento pré-configurado
+✅ **Ambiente Configurado** - Ambiente de desenvolvimento pré-configurado
 
 ---
 
